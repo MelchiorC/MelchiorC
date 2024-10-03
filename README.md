@@ -1,6 +1,6 @@
-# Hi there, I'm [Melchior Celtic] 👋
+# Melchior Celtic
 
-### 🎮 Aspiring Game Developer | Unity Enthusiast | Unreal Engine Enthusiast | C# Programmer
+**` 🎮 Aspiring Game Developer | Unity Enthusiast | Unreal Engine Enthusiast | C# Programmer `**
 
 I am a high school graduate who has a passion for learning new things, especially in the field of games and game development. I am ambitious about honing my skills in game development and always strive to deliver my best in every task. With a strong determination to always learn and adapt, I am ready to continue to develop and pursue a career in this creative industry.
 
