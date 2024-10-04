@@ -1,6 +1,6 @@
 # Melchior Celtic | [**Curriculum Vitae**](https://drive.google.com/file/d/1-CcuY23eCXZA08yEf980ks5LxpD4vS8t/view?usp=sharing)
 
-**` 🎮 Aspiring Game Developer | Unity Enthusiast | Unreal Engine Enthusiast | C# Programmer `**
+**` 🎮 Game Developer | Unity Enthusiast | Unreal Engine Enthusiast | C# Programmer `**
 
 I am a high school graduate who has a passion for learning new things, especially in the field of games and game development. I am ambitious about honing my skills in game development and always strive to deliver my best in every task. With a strong determination to always learn and adapt, I am ready to continue to develop and pursue a career in this creative industry.
 
@@ -12,10 +12,11 @@ I am a high school graduate who has a passion for learning new things, especiall
 <img align="left" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img align="left" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" /> 
 <img align="left" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-<img align="left" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" />
-<img align="left" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />                    
+<img align="left" width="50px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/e2b78f4c-d901-4d85-8e35-596db2c5bcf9" />
+<img align="left" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
+<img align="left" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" />                    
 <img align="left" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />                    
+<img align="left" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <br />
 <br />
 
@@ -32,13 +33,6 @@ I am a high school graduate who has a passion for learning new things, especiall
 - **Email**: melchior.celtic@binus.ac.id
 - **LinkedIn**: [Melchior Celtic](https://www.linkedin.com/in/melchior-celtic/)
 - **Instagram**: [@melchiorceltic](https://www.instagram.com/melchiorceltic/)
-
-#
-
-### ⚡ Fun fact:
-When I'm not coding, you'll find me playing games, brainstorming new ideas for projects, or learning new game design techniques!
-
-Feel free to check out my repositories and projects, or reach out if you'd like to collaborate on something exciting!
 
 ---
 
