@@ -33,4 +33,4 @@ I am a university student who has a passion for learning new things, especially 
 
 ---
 
-_"The best way to predict the future is to invent it."_ – Alan Kay
+_"Let's go gambling."_ 
