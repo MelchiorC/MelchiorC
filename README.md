@@ -27,9 +27,9 @@ I am a university student who has a passion for learning new things, especially 
 #
 
 ### 💡 Projects:
-- [**Traffic Alert – Unreal Engine**](https://youtu.be/klgyRzv4lHA?si=m7DGG7C0ugkhL53R) – A simulation game that aims to introduce traffic signs in Indonesia to players. In this game, players will take on the role of a package courier. Challenged to obey traffic rules carefully to avoid collisions and violation of regulations.
-- [**Mom, What Happened Mom? – Unreal Engine**] – Horror game in which players have to escape from a haunted apartment. In this game, the player discovers that the ghost haunting the apartment is actually his own mother, adding a tense and emotional narrative element.
 - [**Legume Legacy – Unity**](https://youtu.be/ZJDNBpPlKek?si=7D7gyjFKJjixYtx8) - In this farming simulation game, players cultivate crops using sustainable farming practices such as permaculture, polyculture, and green manure to increase soil nutrients organically.
+-  [**Mom, What Happened Mom? – Unreal Engine**] – Horror game in which players have to escape from a haunted apartment. In this game, the player discovers that the ghost haunting the apartment is actually his own mother, adding a tense and emotional narrative element.
+- [**Traffic Alert – Unreal Engine**](https://youtu.be/klgyRzv4lHA?si=m7DGG7C0ugkhL53R) – A simulation game that aims to introduce traffic signs in Indonesia to players. In this game, players will take on the role of a package courier. Challenged to obey traffic rules carefully to avoid collisions and violation of regulations.
 
 ---
 
