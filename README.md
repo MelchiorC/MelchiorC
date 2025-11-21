@@ -1,4 +1,4 @@
-# Melchior Celtic | [**Curriculum Vitae**](https://drive.google.com/file/d/1n5J-1wcd9Tomk-3EizWJEOtUuH6MCQWP/view?usp=drive_link)
+# Melchior Celtic
 
 **` 🎮 Game Developer | Unity Enthusiast | Unreal Engine Enthusiast | C# Programmer `**
 
